@@ -15,8 +15,7 @@ session_start();
 
 	<a href="./game.php">Играть</a>
 	<a href="./rules.php">Правила игры</a>
-	<a href="./help.php">Помощь</a>
-		
+
 </body>
 
 </html>

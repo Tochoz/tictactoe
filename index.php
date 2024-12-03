@@ -7,9 +7,9 @@
 <body>
 	<h1>Крестики-нолики</h1>
 
-	<a href="./game">Новая игра</a>
+	<a href="./game.php">Новая игра</a>
 
-	<a href="./auth">Авторизация</a>
+	<a href="./auth.php">Авторизация</a>
 
 	
 </body>

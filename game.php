@@ -8,6 +8,8 @@ session_start();
 	<title>Крестики-нолики</title>
 
 	<link rel="stylesheet" href="./style.css"></link>
+
+	<script src="./index.js"></script>
 </head>
 
 <body>

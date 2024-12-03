@@ -13,7 +13,7 @@ session_start();
 <body>
 	<h1>ИГРА</h1>
 
-	<p>Сюда надо код игры для входа: </p>
+	<p>Вы играете за: </p>
 
 	<main id="field">
 		<div data-cell="1"></div>
